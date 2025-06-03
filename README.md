@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
+  <img src="assets/Welcome!.gif" alt="Welcome animation" width="400"/>
+</div>
 
-<!--
-**XRAZ-team/XRAZ-team** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>👋 Hi! I'm the deputy curator of the <span style="color:#FFA500;">PRIME</span> project.</b><br>
+  <i>“Not very skilled in coding yet, but I constantly strive to improve.”</i><br>
+  <br>
+  Currently learning <b>C#</b> and have some basic knowledge of <b>Python</b>.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+  <img src="assets/Code.gif" alt="Code animation" width="350"/>
+</div>
