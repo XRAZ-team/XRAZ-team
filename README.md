@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <b>👋 Hi! I'm the deputy curator of the <span style="color:#FFA500;">PRIME</span> project.</b><br>
+  <b>👋 Hi! I'm XRAZ.</b><br>
   <i>“Not very skilled in coding yet, but I constantly strive to improve.”</i><br>
   <br>
   Currently learning <b>C#</b> and have some basic knowledge of <b>Python</b>.
