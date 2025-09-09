@@ -31,3 +31,6 @@
 
 ### 📈 GitHub Activity Graph:
 ![XRAZ's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=XRAZ-team&theme=redical&hide_border=true&area=true)
+
+### 🏆 GitHub Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=XRAZ-team&theme=radical&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
