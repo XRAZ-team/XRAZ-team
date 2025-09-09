@@ -25,10 +25,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=XRAZ-team&show_icons=true&theme=midnight-purple" alt="GitHub Stats"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XRAZ-team&layout=compact&theme=radical" alt="Top Languages"/>
-</div>
-
 ### 📈 GitHub Activity Graph:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=XRAZ-team&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
