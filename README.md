@@ -24,11 +24,7 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XRAZ-team&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XRAZ-team&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=XRAZ-team&show_icons=true&theme=midnight-purple" alt="GitHub Stats"/>
 </div>
 
 ### 📈 GitHub Activity Graph:
