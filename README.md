@@ -28,3 +28,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XRAZ-team&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
+
+### 📈 GitHub Activity Graph:
+![XRAZ's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=XRAZ-team&theme=redical&hide_border=true&area=true)
