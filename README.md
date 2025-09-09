@@ -22,7 +22,7 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XRAZ-team&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=XRAZ-team&show_icons=true&theme=midnight-purple" alt="GitHub Stats"/>
 </div>
 
 <div align="center">
