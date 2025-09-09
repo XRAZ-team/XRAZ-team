@@ -19,6 +19,8 @@
 
 ---
 
+<div align="center">
+
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -30,7 +32,9 @@
 </div>
 
 ### 📈 GitHub Activity Graph:
-![XRAZ's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=XRAZ-team&theme=redical&hide_border=true&area=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=XRAZ-team&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 🏆 GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=XRAZ-team&theme=radical&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
