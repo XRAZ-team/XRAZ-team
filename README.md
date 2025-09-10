@@ -8,7 +8,7 @@
   <b>👋 Hi! I'm XRAZ.</b><br>
   <i>“Not very skilled in coding yet, but I constantly strive to improve.”</i><br>
   <br>
-  Currently learning <b>C#</b> and have some basic knowledge of <b>Python</b>.
+  Currently learning <b>C++|Pyhton|Lua</b> and have some basic knowledge of <b>Python</b>.
 </p>
 
 ---
